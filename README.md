@@ -1,13 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)
 <h1 align="center">Hi 👋, I'm Ajay Sahani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer </h3>
 <img align="right" alt="coding"  width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-sahani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 still learing frameworks and languages concepts.
+- 🌱 learing frameworks, Databases and languages concepts.
 
 - 📝 I write articles, You can check on [ourancientearth.blogspot.com](ourancientearth.blogspot.com)
 
