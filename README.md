@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 still learing frameworks and languages concepts.
 
-- 📝 I regularly write articles on [ourancientearth.blogspot.com](ourancientearth.blogspot.com)
+- 📝 I write articles, You can check on [ourancientearth.blogspot.com](ourancientearth.blogspot.com)
 
 - 💬 Ask me about **Web Development, Hacking, C++, Html, Css, react js**
 
 - 📫 How to reach me **ajay08122004kumar@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **whatever i do, put my my 110% to it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
